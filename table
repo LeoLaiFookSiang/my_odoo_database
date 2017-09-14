@@ -1,3 +1,4 @@
+SELECT tablename FROM pg_catalog.pg_tables where tableowner = 'odoo';
 tablename                      
 -----------------------------------------------------
  ir_actions
